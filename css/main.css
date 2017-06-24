@@ -1,0 +1,21 @@
+body{
+	background-image:url('default.jpg'); 
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  	background-size: cover;
+  	background-repeat:no-repeat;
+	background-position:center;
+  	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#box{
+	border-radius: 10px;
+	background-color: #B5AFAD!important;
+	margin-top: 475px!important;
+	font-family: 'Anton', sans-serif;
+	font-size: 1.3em;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	opacity: 0.75;
+}
